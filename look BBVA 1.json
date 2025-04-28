@@ -280,7 +280,7 @@
       "item": "image_watermark",
       "value": "image_watermark",
       "url": "",
-      "enable": true
+      "enable": false
     },
   ],
   "custom_animations_enable": false,
