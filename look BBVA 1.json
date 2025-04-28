@@ -273,8 +273,8 @@
     {
       "item": "image_ticket_stripe",
       "value": "image_stripe",
-      "url": "",
-      "enable": false
+      "url": "https://tpv-parameters.qa.stg.smartpayment.com.mx/BBVA.png",
+      "enable": true
     },
     {
       "item": "image_watermark",
