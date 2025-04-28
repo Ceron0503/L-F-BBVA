@@ -273,7 +273,7 @@
     {
       "item": "image_ticket_stripe",
       "value": "image_stripe",
-      "url": "https://tpv-parameters.qa.stg.smartpayment.com.mx/BBVA.png",
+      "url": "",
       "enable": false
     },
     {
@@ -281,7 +281,7 @@
       "value": "image_watermark",
       "url": "https://github.com/Ceron0503/L-F-BBVA-marca-de-agua/blob/main/BBVA%20transparanciañ.PNG",
       "enable": true
-    }
+    },
   ],
   "custom_animations_enable": false,
   "custom_animations": [
